@@ -4,7 +4,10 @@ somar <- function(a, b){
 }
 
 
-#função diminuir
+#função para diminuir dois números
 diminuir <- function(a,b){
   a - b
 }
+
+
+
